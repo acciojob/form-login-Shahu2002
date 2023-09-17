@@ -1,6 +1,6 @@
 // script.js
 
 function getFormvalue() {
-	 alert();
+	 alert(`${firstName} ${lastName}`);
 }
 
